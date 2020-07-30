@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Start of Header*/
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -92,7 +94,7 @@ p {
     font-size: 36px;
 }
 
-
+/*Start of Benefit Section*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
