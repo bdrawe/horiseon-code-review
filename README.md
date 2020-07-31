@@ -1,5 +1,5 @@
 # Horeiseon Code Review
-To make the the website more accessible, with included alt tags for images, more descriptive semantics and consolidated CSS files. For future developers I have placed descriptive comments to help developers navigate the code better.
+Made the the website more accessible, with alt tags for images, more descriptive semantic elements and consolidated CSS. For future developers I have placed descriptive comments to help navigate the code better.
 
 ![Horiseon Hero Image](assets/images/horiseon-hero.png)
 
