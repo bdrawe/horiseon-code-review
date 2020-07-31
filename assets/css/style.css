@@ -26,6 +26,7 @@ body {
     color: #d9dcd6;
 }
 
+/*Used float: right to get the element out of the flow of the doc and make it go to the right*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -33,16 +34,17 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/*This takes the bullets out of the list*/
 .header div ul {
     list-style-type: none;
 }
-
+/*Used inline block to make them all in the same line and take them out of document flow*/
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/*We took out the underline to make it look nice and clean*/
 a {
     color: #ffffff;
     text-decoration: none;
